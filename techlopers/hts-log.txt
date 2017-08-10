@@ -1,0 +1,83 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 09 Aug 2017 11:52:37 at http://keydesign-themes.com/intact/corporate/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://keydesign-themes.com/intact/corporate/ -O1 "D:\techlopers" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:52:38	Warning: 	Note: due to keydesign-themes.com remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+11:54:08	Error: 	"Method Not Allowed" (405) at link keydesign-themes.com/intact/corporate/xmlrpc.php (from keydesign-themes.com/intact/corporate/)
+11:54:12	Warning: 	Retry after error -4 (Connect Error) at link www.google-analytics.com/analytics.js (from keydesign-themes.com/intact/corporate/)
+11:54:12	Error: 	"Not Found" (404) at link keydesign-themes.com/intact/corporate/linkid.js (from keydesign-themes.com/intact/corporate/)
+11:54:12	Warning: 	Retry after error -4 (Connect Error) at link https://connect.facebook.net/en_US/fbevents.js (from keydesign-themes.com/intact/corporate/)
+11:54:37	Warning: 	Retry after error -4 (No data (connection closed)) at link keydesign-themes.com/intact/corporate/home/our-offices/ (from keydesign-themes.com/intact/corporate/)
+11:55:15	Warning: 	Retry after error -4 (Connect Error) at link https://connect.facebook.net/en_US/fbevents.js (from keydesign-themes.com/intact/corporate/)
+11:55:17	Error: 	"Not Found" (404) at link keydesign-themes.com/intact/corporate/home/intro/linkid.js (from keydesign-themes.com/intact/corporate/home/intro/)
+11:55:17	Warning: 	Moved Permanently for keydesign-themes.com/intact/corporate/?p=5
+11:55:17	Warning: 	File has moved from keydesign-themes.com/intact/corporate/?p=5 to http://keydesign-themes.com/intact/corporate/home/intro/
+11:55:19	Error: 	"Not Found" (404) at link keydesign-themes.com/intact/corporate/home/services-we-provide/linkid.js (from keydesign-themes.com/intact/corporate/home/services-we-provide/)
+11:55:19	Warning: 	Retry after error -4 (No data (connection closed)) at link keydesign-themes.com/intact/corporate/?p=7 (from keydesign-themes.com/intact/corporate/home/services-we-provide/)
+11:55:19	Warning: 	Retry after error -4 (No data (connection closed)) at link keydesign-themes.com/intact/corporate/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fkeydesign-themes.com%2Fintact%2Fcorporate%2Fhome%2Fservices-we-provide%2F (from keydesign-themes.com/intact/corporate/home/services-we-provide/)
+11:55:19	Warning: 	Retry after error -4 (No data (connection closed)) at link keydesign-themes.com/intact/corporate/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fkeydesign-themes.com%2Fintact%2Fcorporate%2Fhome%2Fservices-we-provide%2F&format=xml (from keydesign-themes.com/intact/corporate/home/services-we-provide/)
+11:55:21	Error: 	"Not Found" (404) at link keydesign-themes.com/intact/corporate/home/1917-2/linkid.js (from keydesign-themes.com/intact/corporate/home/1917-2/)
+11:55:21	Warning: 	Moved Permanently for keydesign-themes.com/intact/corporate/?p=11
+11:55:21	Warning: 	File has moved from keydesign-themes.com/intact/corporate/?p=11 to http://keydesign-themes.com/intact/corporate/home/1917-2/
+11:55:22	Error: 	"Not Found" (404) at link keydesign-themes.com/intact/corporate/future-design-concept/linkid.js (from keydesign-themes.com/intact/corporate/future-design-concept/)
+11:55:22	Warning: 	Moved Permanently for keydesign-themes.com/intact/corporate/?p=1821
+11:55:22	Warning: 	File has moved from keydesign-themes.com/intact/corporate/?p=1821 to http://keydesign-themes.com/intact/corporate/future-design-concept/
+11:55:41	Error: 	"Not Found" (404) at link keydesign-themes.com/intact/corporate/stand-out-venues/linkid.js (from keydesign-themes.com/intact/corporate/stand-out-venues/)
+11:55:41	Warning: 	Moved Permanently for keydesign-themes.com/intact/corporate/?p=410
+11:55:41	Warning: 	File has moved from keydesign-themes.com/intact/corporate/?p=410 to http://keydesign-themes.com/intact/corporate/stand-out-venues/
+11:56:19	Warning: 	Retry after error -4 (No data (connection closed)) at link keydesign-themes.com/intact/corporate/stand-out-venues/?replytocom=4 (from keydesign-themes.com/intact/corporate/stand-out-venues/)
+11:56:19	Warning: 	Retry after error -4 (No data (connection closed)) at link keydesign-themes.com/intact/corporate/technology-upgraded/linkid.js (from keydesign-themes.com/intact/corporate/technology-upgraded/)
+11:56:19	Warning: 	Moved Permanently for keydesign-themes.com/intact/corporate/?p=409
+11:56:19	Warning: 	File has moved from keydesign-themes.com/intact/corporate/?p=409 to http://keydesign-themes.com/intact/corporate/technology-upgraded/
+11:56:20	Warning: 	Retry after error -4 (No data (connection closed)) at link keydesign-themes.com/intact/corporate/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fkeydesign-themes.com%2Fintact%2Fcorporate%2Ftechnology-upgraded%2F (from keydesign-themes.com/intact/corporate/technology-upgraded/)
+11:56:20	Warning: 	Retry after error -4 (No data (connection closed)) at link keydesign-themes.com/intact/corporate/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fkeydesign-themes.com%2Fintact%2Fcorporate%2Ftechnology-upgraded%2F&format=xml (from keydesign-themes.com/intact/corporate/technology-upgraded/)
+11:56:23	Error: 	"Connect Error" (-4) after 2 retries at link https://connect.facebook.net/en_US/fbevents.js (from keydesign-themes.com/intact/corporate/)
+11:56:23	Warning: 	Retry after error -4 (No data (connection closed)) at link keydesign-themes.com/intact/corporate/?p=7 (from keydesign-themes.com/intact/corporate/home/services-we-provide/)
+11:56:23	Warning: 	Retry after error -4 (No data (connection closed)) at link keydesign-themes.com/intact/corporate/home/our-offices/linkid.js (from keydesign-themes.com/intact/corporate/home/our-offices/)
+11:56:23	Warning: 	Moved Permanently for keydesign-themes.com/intact/corporate/?p=1853
+11:56:23	Warning: 	File has moved from keydesign-themes.com/intact/corporate/?p=1853 to http://keydesign-themes.com/intact/corporate/home/our-offices/
+11:56:23	Warning: 	Retry after error -4 (No data (connection closed)) at link keydesign-themes.com/intact/corporate/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fkeydesign-themes.com%2Fintact%2Fcorporate%2Fhome%2Four-offices%2F&format=xml (from keydesign-themes.com/intact/corporate/home/our-offices/)
+11:56:23	Warning: 	Retry after error -4 (No data (connection closed)) at link keydesign-themes.com/intact/corporate/author/admin/feed/ (from keydesign-themes.com/intact/corporate/author/admin/)
+11:56:24	Warning: 	Retry after error -4 (No data (connection closed)) at link keydesign-themes.com/intact/corporate/author/admin/linkid.js (from keydesign-themes.com/intact/corporate/author/admin/)
+11:56:25	Error: 	"Not Found" (404) at link keydesign-themes.com/intact/corporate/category/bussiness/linkid.js (from keydesign-themes.com/intact/corporate/category/bussiness/)
+11:56:25	Error: 	"Not Found" (404) at link keydesign-themes.com/intact/corporate/category/future/linkid.js (from keydesign-themes.com/intact/corporate/category/future/)
+11:56:25	Warning: 	Retry after error -4 (No data (connection closed)) at link keydesign-themes.com/intact/corporate/category/uncategorized/feed/ (from keydesign-themes.com/intact/corporate/category/uncategorized/)
+11:56:25	Warning: 	Retry after error -4 (No data (connection closed)) at link keydesign-themes.com/intact/corporate/category/uncategorized/linkid.js (from keydesign-themes.com/intact/corporate/category/uncategorized/)
+11:56:25	Error: 	"Not Found" (404) at link keydesign-themes.com/intact/corporate/tag/development/linkid.js (from keydesign-themes.com/intact/corporate/tag/development/)
+11:56:25	Error: 	"Not Found" (404) at link keydesign-themes.com/intact/corporate/tag/experiments/linkid.js (from keydesign-themes.com/intact/corporate/tag/experiments/)
+11:56:25	Warning: 	Retry after error -4 (No data (connection closed)) at link keydesign-themes.com/intact/corporate/tag/technology/feed/ (from keydesign-themes.com/intact/corporate/tag/technology/)
+11:56:25	Error: 	"Not Found" (404) at link keydesign-themes.com/intact/corporate/tag/technology/linkid.js (from keydesign-themes.com/intact/corporate/tag/technology/)
+11:56:25	Warning: 	Retry after error -4 (No data (connection closed)) at link keydesign-themes.com/intact/corporate/2016/02/linkid.js (from keydesign-themes.com/intact/corporate/2016/02/)
+11:56:25	Error: 	"Not Found" (404) at link keydesign-themes.com/intact/corporate/2016/01/linkid.js (from keydesign-themes.com/intact/corporate/2016/01/)
+11:56:25	Error: 	"Not Found" (404) at link keydesign-themes.com/intact/corporate/category/general/linkid.js (from keydesign-themes.com/intact/corporate/category/general/)
+11:56:25	Error: 	"Not Found" (404) at link keydesign-themes.com/intact/corporate/category/it/linkid.js (from keydesign-themes.com/intact/corporate/category/it/)
+11:56:28	Warning: 	Retry after error 504 (Gateway Timeout) at link keydesign-themes.com/intact/corporate/wp-admin/ (from keydesign-themes.com/intact/corporate/wp-login.php)
+11:56:28	Error: 	"Not Found" (404) at link keydesign-themes.com/intact/corporate/tag/framework/linkid.js (from keydesign-themes.com/intact/corporate/tag/framework/)
+11:56:28	Error: 	"Not Found" (404) at link keydesign-themes.com/intact/corporate/tag/general/linkid.js (from keydesign-themes.com/intact/corporate/tag/general/)
+11:56:28	Error: 	"Not Found" (404) at link keydesign-themes.com/intact/corporate/tag/study/linkid.js (from keydesign-themes.com/intact/corporate/tag/study/)
+11:56:28	Warning: 	Retry after error -4 (No data (connection closed)) at link keydesign-themes.com/intact/corporate/stand-out-venues/?replytocom=4 (from keydesign-themes.com/intact/corporate/stand-out-venues/)
+11:56:29	Warning: 	Retry after error -4 (No data (connection closed)) at link keydesign-themes.com/intact/corporate/technology-upgraded/linkid.js (from keydesign-themes.com/intact/corporate/technology-upgraded/)
+11:56:29	Error: 	"Not Found" (404) at link keydesign-themes.com/intact/corporate/tag/software/linkid.js (from keydesign-themes.com/intact/corporate/tag/software/)
+11:56:29	Warning: 	Moved Permanently for keydesign-themes.com/intact/corporate/?p=7
+11:56:29	Warning: 	File has moved from keydesign-themes.com/intact/corporate/?p=7 to http://keydesign-themes.com/intact/corporate/home/services-we-provide/
+11:56:29	Error: 	"Not Found" (404) at link keydesign-themes.com/intact/corporate/home/our-offices/linkid.js (from keydesign-themes.com/intact/corporate/home/our-offices/)
+11:56:29	Warning: 	Retry after error -4 (No data (connection closed)) at link keydesign-themes.com/intact/corporate/author/admin/linkid.js (from keydesign-themes.com/intact/corporate/author/admin/)
+11:56:29	Warning: 	Retry after error -4 (No data (connection closed)) at link keydesign-themes.com/intact/corporate/category/uncategorized/linkid.js (from keydesign-themes.com/intact/corporate/category/uncategorized/)
+11:56:29	Warning: 	Retry after error -4 (No data (connection closed)) at link keydesign-themes.com/intact/corporate/tag/technology/feed/ (from keydesign-themes.com/intact/corporate/tag/technology/)
+11:56:30	Error: 	"Not Found" (404) at link keydesign-themes.com/intact/corporate/2016/02/linkid.js (from keydesign-themes.com/intact/corporate/2016/02/)
+11:56:30	Warning: 	Retry after error -4 (No data (connection closed)) at link keydesign-themes.com/intact/corporate/wp-admin/images/loading.gif (from keydesign-themes.com/intact/corporate/wp-admin/load-styles.php?c=0&dir=ltr&load%5B%5D=dashicons,buttons,forms,l10n,login&ver=4.8.1)
+11:56:31	Warning: 	Moved Temporarily for keydesign-themes.com/intact/corporate/wp-admin/
+11:56:31	Warning: 	File has moved from keydesign-themes.com/intact/corporate/wp-admin/ to http://keydesign-themes.com/intact/corporate/wp-login.php?redirect_to=http%3A%2F%2Fkeydesign-themes.com%2Fintact%2Fcorporate%2Fwp-admin%2F&reauth=1
+11:56:33	Error: 	"Not Found" (404) at link keydesign-themes.com/intact/corporate/technology-upgraded/linkid.js (from keydesign-themes.com/intact/corporate/technology-upgraded/)
+11:56:33	Error: 	"No data (connection closed)" (-4) after 2 retries at link keydesign-themes.com/intact/corporate/author/admin/linkid.js (from keydesign-themes.com/intact/corporate/author/admin/)
+11:56:33	Error: 	"No data (connection closed)" (-4) after 2 retries at link keydesign-themes.com/intact/corporate/category/uncategorized/linkid.js (from keydesign-themes.com/intact/corporate/category/uncategorized/)
+11:56:33	Warning: 	Retry after error -4 (No data (connection closed)) at link keydesign-themes.com/intact/corporate/wp-admin/&reauth=1 (from keydesign-themes.com/intact/corporate/wp-login.php?redirect_to=http%3A%2F%2Fkeydesign-themes.com%2Fintact%2Fcorporate%2Fwp-admin%2F%26reauth=1)
+11:56:33	Warning: 	Retry after error -4 (No data (connection closed)) at link keydesign-themes.com/intact/corporate/wp-admin/&reauth=1 (from keydesign-themes.com/intact/corporate/wp-login.php?redirect_to=http%3A%2F%2Fkeydesign-themes.com%2Fintact%2Fcorporate%2Fwp-admin%2F%26reauth=1)
+11:56:33	Error: 	"No data (connection closed)" (-4) after 2 retries at link keydesign-themes.com/intact/corporate/wp-admin/&reauth=1 (from keydesign-themes.com/intact/corporate/wp-login.php?redirect_to=http%3A%2F%2Fkeydesign-themes.com%2Fintact%2Fcorporate%2Fwp-admin%2F%26reauth=1)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 56 seconds : 199 links scanned, 135 files written (8837633 bytes overall) [4875933 bytes received at 20660 bytes/sec], 6198858 bytes transferred using HTTP compression in 37 files, ratio 21%, 3.9 requests per connection
+(26 errors, 46 warnings, 0 messages)

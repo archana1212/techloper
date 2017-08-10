@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+keydesign-themes.com	TRUE	/intact/	FALSE	1999999999	wordpress_test_cookie	WP+Cookie+check
+keydesign-themes.com	TRUE	/	FALSE	1999999999	wpSGCacheBypass	0
+
